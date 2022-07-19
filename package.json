@@ -1,0 +1,12 @@
+{
+  "name": "simple-lib",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bulnes/simple-lib.git",
+  "author": "Bruno Bulnes <bulnes.bruno@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/jest": "^28.1.6",
+    "jest": "^28.1.3"
+  }
+}
